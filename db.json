@@ -1,0 +1,757 @@
+{
+  "users": [
+    {
+      "users_id": "…….",
+      "salutation": "…….",
+      "first_name": "Arnan",
+      "middle_name": "Abdiel",
+      "last_name": "Theopilus",
+      "email": "test@mail.com",
+      "username": "theoarnan",
+      "contact": "828288373",
+      "activate_date": "…….",
+      "suspend_date": "…….",
+      "pic": 1,
+      "merchant_id": "CA303-0608",
+      "control_id": "…….",
+      "user_login_status": "…….",
+      "last_login": "…….",
+      "ip_address": "…….",
+      "company_name": "…….",
+      "merchant_name": "Nay Demo",
+      "permission": "…….",
+      "is_manage_child": 1,
+      "role": "…….",
+      "control": "…….",
+      "npwp": "…….",
+      "ktp": "…….",
+      "npwp_url": "…….",
+      "ktp_url": "…….",
+      "selfie_url": "…….",
+      "sign_url": "…….",
+      "birthplace": "…….",
+      "birthdate": "…….",
+      "user_address1": "…….",
+      "user_address2": "…….",
+      "user_city": "…….",
+      "user_state": "…….",
+      "user_district": "…….",
+      "user_postcode": "…….",
+      "business_relation_type": "…….",
+      "role_id": "…….",
+      "is_active": 1,
+      "bank_id": "…….",
+      "bank_name": "…….",
+      "merchant_loan_eligible": 0,
+      "merchant_group": "…….",
+      "merchant_group_head": "…….",
+      "incentive_scheme": "……."
+    }
+  ],
+  "login": [
+    {
+      "group_code": "D001IP",
+      "group_name": "Nirwata Arthayasa",
+      "group_type": "STRATEGIC_DISTRIBUTOR"
+    },
+    {
+      "group_code": "D002IP",
+      "group_name": "Handoko Group",
+      "group_type": "DISTRIBUTOR"
+    }
+  ],
+  "monthly": [
+    {
+      "group_code": "D001IP",
+      "group_name": "Nirwata Arthayasa",
+      "group_type": "STRATEGIC_DISTRIBUTOR",
+      "sales_period": "2019-12-31",
+      "selling_merchants": 16,
+      "total_sales_numbers": 26,
+      "total_sales_volume": 481251416,
+      "total_sales_incentive": 552928
+    },
+    {
+      "group_code": "D002IP",
+      "group_name": "Handoko Group",
+      "group_type": "DISTRIBUTOR",
+      "sales_period": "2019-12-31",
+      "selling_merchants": 567,
+      "total_sales_numbers": 765,
+      "total_sales_volume": 7081251416,
+      "total_sales_incentive": 4552928
+    }
+  ],
+  "monthly-details": [
+    {
+      "group_code": "D001IP",
+      "group_name": "Nirwata Arthayasa",
+      "group_type": "STRATEGIC_DISTRIBUTOR",
+      "sales_period": "2019-12-31",
+      "sales_performance": [
+        {
+          "merchant_id": "CA403-2124",
+          "merchant_name": "Tat2 Guide",
+          "performance": [
+            {
+              "id": 1,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 3,
+              "sales_volume": 5000000,
+              "sales_incentive": 10875
+            },
+            {
+              "id": 1,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 3,
+              "sales_volume": 1900000,
+              "sales_incentive": 3315
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB200-8845",
+          "merchant_name": "Toraja Villa",
+          "performance": [
+            {
+              "id": 2,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 2,
+              "sales_volume": 34968696,
+              "sales_incentive": 78680
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB400-2721",
+          "merchant_name": "Kuta Dive Shop",
+          "performance": [
+            {
+              "id": 3,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 20,
+              "sales_volume": 18322000,
+              "sales_incentive": 39852
+            },
+            {
+              "id": 3,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 3,
+              "sales_volume": 2501000,
+              "sales_incentive": 4311
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB601-1829",
+          "merchant_name": "OYO Flagship 1348 Hotel Home Ahaya",
+          "performance": [
+            {
+              "id": 4,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 6,
+              "sales_volume": 1358164,
+              "sales_incentive": 383
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB701-4970",
+          "merchant_name": "Bali International Diving Professionals",
+          "performance": [
+            {
+              "id": 5,
+              "trx_method": "Card NotPresent",
+              "sales_numbers": 1,
+              "sales_volume": 3500000,
+              "sales_incentive": 7875
+            },
+            {
+              "id": 5,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 4,
+              "sales_volume": 12000000,
+              "sales_incentive": 26100
+            }
+          ]
+        },
+        {
+          "merchant_id": "CA303-0608",
+          "merchant_name": "Nay Demo",
+          "performance": [
+            {
+              "id": 6,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 8,
+              "sales_volume": 442000,
+              "sales_incentive": 962
+            },
+            {
+              "id": 6,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 1,
+              "sales_volume": 1000,
+              "sales_incentive": 2
+            },
+            {
+              "id": 6,
+              "trx_method": "eMoney",
+              "sales_numbers": 4,
+              "sales_volume": 12500,
+              "sales_incentive": 22
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB502-1464",
+          "merchant_name": "Ganesh House Cafe",
+          "performance": [
+            {
+              "id": 7,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 1,
+              "sales_volume": 56000,
+              "sales_incentive": 122
+            },
+            {
+              "id": 7,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 3,
+              "sales_volume": 300000,
+              "sales_incentive": 540
+            }
+          ]
+        },
+        {
+          "merchant_id": "CA603-3328",
+          "merchant_name": "BALI FUN DIVING",
+          "performance": [
+            {
+              "id": 8,
+              "trx_method": "Card NotPresent",
+              "sales_numbers": 7,
+              "sales_volume": 40445750,
+              "sales_incentive": 30335
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB800-2925",
+          "merchant_name": "Freedive Nusa",
+          "performance": [
+            {
+              "id": 9,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 24,
+              "sales_volume": 68665630,
+              "sales_incentive": 149349
+            },
+            {
+              "id": 9,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 2,
+              "sales_volume": 5351000,
+              "sales_incentive": 17659
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB800-3014",
+          "merchant_name": "PD Tirtamart",
+          "performance": [
+            {
+              "id": 10,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 1,
+              "sales_volume": 829500,
+              "sales_incentive": 1805
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB500-9725",
+          "merchant_name": "CV Fenny",
+          "performance": [
+            {
+              "id": 11,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 123,
+              "sales_volume": 63871681,
+              "sales_incentive": 48431
+            },
+            {
+              "id": 11,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 424,
+              "sales_volume": 180027880,
+              "sales_incentive": 45076
+            },
+            {
+              "id": 11,
+              "trx_method": "eMoney",
+              "sales_numbers": 1,
+              "sales_volume": 535615,
+              "sales_incentive": 121
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB200-7359",
+          "merchant_name": "Pondok Baruna",
+          "performance": [
+            {
+              "id": 12,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 1,
+              "sales_volume": 357000,
+              "sales_incentive": 1179
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB201-8596",
+          "merchant_name": "Tauchen_In_Bali.com",
+          "performance": [
+            {
+              "id": 13,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 6,
+              "sales_volume": 14768000,
+              "sales_incentive": 32121
+            },
+            {
+              "id": 13,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 1,
+              "sales_volume": 1957000,
+              "sales_incentive": 3523
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB600-1432",
+          "merchant_name": "Sea Safari 9",
+          "performance": [
+            {
+              "id": 14,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 2,
+              "sales_volume": 6171000,
+              "sales_incentive": 13885
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB600-9138",
+          "merchant_name": "Wisesa Liveaboard",
+          "performance": [
+            {
+              "id": 15,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 4,
+              "sales_volume": 16210000,
+              "sales_incentive": 35257
+            }
+          ]
+        },
+        {
+          "merchant_id": "CA303-0343",
+          "merchant_name": "IslandPay",
+          "performance": [
+            {
+              "id": 16,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 1,
+              "sales_volume": 1700000,
+              "sales_incentive": 1148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_code": "D002IP",
+      "group_name": "Handoko Group",
+      "group_type": "DISTRIBUTOR",
+      "sales_period": "2019-12-31",
+      "sales_performance": [
+        {
+          "merchant_id": "FA404-4128",
+          "merchant_name": "Free Yee",
+          "performance": [
+            {
+              "id": 1,
+              "trx_method": "OVO",
+              "sales_numbers": 4,
+              "sales_volume": 10000000,
+              "sales_incentive": 20875
+            },
+            {
+              "id": 1,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 4,
+              "sales_volume": 2900000,
+              "sales_incentive": 5315
+            },
+            {
+              "id": 1,
+              "trx_method": "GO-PAY",
+              "sales_numbers": 6,
+              "sales_volume": 10900000,
+              "sales_incentive": 13315
+            },
+            {
+              "id": 1,
+              "trx_method": "LINK-AJA",
+              "sales_numbers": 4,
+              "sales_volume": 12900000,
+              "sales_incentive": 14315
+            }
+          ]
+        },
+        {
+          "merchant_id": "PB200-8647",
+          "merchant_name": "Puncak Villa",
+          "performance": [
+            {
+              "id": 2,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 2,
+              "sales_volume": 34968696,
+              "sales_incentive": 78680
+            },
+            {
+              "id": 1,
+              "trx_method": "OVO",
+              "sales_numbers": 5,
+              "sales_volume": 15000000,
+              "sales_incentive": 27875
+            },
+            {
+              "id": 1,
+              "trx_method": "GO-PAY",
+              "sales_numbers": 3,
+              "sales_volume": 11900000,
+              "sales_incentive": 15315
+            }
+          ]
+        },
+        {
+          "merchant_id": "GB490-3731",
+          "merchant_name": "Bandung Dive Shop",
+          "performance": [
+            {
+              "id": 3,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 21,
+              "sales_volume": 20322000,
+              "sales_incentive": 42852
+            },
+            {
+              "id": 3,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 4,
+              "sales_volume": 2701000,
+              "sales_incentive": 7311
+            },
+            {
+              "id": 1,
+              "trx_method": "SHOPEE-PAY",
+              "sales_numbers": 4,
+              "sales_volume": 16900000,
+              "sales_incentive": 18315
+            },
+            {
+              "id": 1,
+              "trx_method": "LINK-AJA",
+              "sales_numbers": 8,
+              "sales_volume": 20900000,
+              "sales_incentive": 20315
+            }
+          ]
+        },
+        {
+          "merchant_id": "KB601-6848",
+          "merchant_name": "OYO Hotel Home",
+          "performance": [
+            {
+              "id": 4,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 6,
+              "sales_volume": 1358164,
+              "sales_incentive": 383
+            },
+            {
+              "id": 1,
+              "trx_method": "LINK-AJA",
+              "sales_numbers": 8,
+              "sales_volume": 25900000,
+              "sales_incentive": 21315
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB781-4972",
+          "merchant_name": "Bali International Wine",
+          "performance": [
+            {
+              "id": 5,
+              "trx_method": "Card NotPresent",
+              "sales_numbers": 7,
+              "sales_volume": 7500000,
+              "sales_incentive": 7875
+            },
+            {
+              "id": 5,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 5,
+              "sales_volume": 15000000,
+              "sales_incentive": 29100
+            },
+            {
+              "id": 1,
+              "trx_method": "OVO",
+              "sales_numbers": 2,
+              "sales_volume": 16000000,
+              "sales_incentive": 22875
+            }
+          ]
+        },
+        {
+          "merchant_id": "CH303-0608",
+          "merchant_name": "Homies Demo",
+          "performance": [
+            {
+              "id": 6,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 8,
+              "sales_volume": 5642000,
+              "sales_incentive": 2062
+            },
+            {
+              "id": 6,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 2,
+              "sales_volume": 1000000,
+              "sales_incentive": 900
+            },
+            {
+              "id": 6,
+              "trx_method": "eMoney",
+              "sales_numbers": 4,
+              "sales_volume": 900500,
+              "sales_incentive": 899
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB502-5465",
+          "merchant_name": "Warkop House Cafe",
+          "performance": [
+            {
+              "id": 7,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 4,
+              "sales_volume": 5756000,
+              "sales_incentive": 2000
+            },
+            {
+              "id": 7,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 3,
+              "sales_volume": 300000,
+              "sales_incentive": 540
+            },
+            {
+              "id": 6,
+              "trx_method": "eMoney",
+              "sales_numbers": 2,
+              "sales_volume": 1000500,
+              "sales_incentive": 1002
+            }
+          ]
+        },
+        {
+          "merchant_id": "CA603-7338",
+          "merchant_name": "JOGJA FUN DIVING",
+          "performance": [
+            {
+              "id": 8,
+              "trx_method": "Card NotPresent",
+              "sales_numbers": 7,
+              "sales_volume": 50445750,
+              "sales_incentive": 40335
+            },
+            {
+              "id": 1,
+              "trx_method": "OVO",
+              "sales_numbers": 3,
+              "sales_volume": 14000000,
+              "sales_incentive": 15875
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB800-2925",
+          "merchant_name": "Driver Nusa Dua",
+          "performance": [
+            {
+              "id": 9,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 24,
+              "sales_volume": 78665630,
+              "sales_incentive": 179349
+            },
+            {
+              "id": 9,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 4,
+              "sales_volume": 8351000,
+              "sales_incentive": 18659
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB800-9014",
+          "merchant_name": "PD GOMART",
+          "performance": [
+            {
+              "id": 10,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 2,
+              "sales_volume": 1829500,
+              "sales_incentive": 2805
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB500-3785",
+          "merchant_name": "CV Jaya Baru",
+          "performance": [
+            {
+              "id": 11,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 143,
+              "sales_volume": 83871681,
+              "sales_incentive": 58431
+            },
+            {
+              "id": 11,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 424,
+              "sales_volume": 190027880,
+              "sales_incentive": 48076
+            },
+            {
+              "id": 11,
+              "trx_method": "eMoney",
+              "sales_numbers": 1,
+              "sales_volume": 835615,
+              "sales_incentive": 400
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB200-7359",
+          "merchant_name": "Pondok Games",
+          "performance": [
+            {
+              "id": 12,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 4,
+              "sales_volume": 857000,
+              "sales_incentive": 2179
+            },
+            {
+              "id": 11,
+              "trx_method": "eMoney",
+              "sales_numbers": 2,
+              "sales_volume": 1035615,
+              "sales_incentive": 1100
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB201-2996",
+          "merchant_name": "Tauchen_In_Malang.com",
+          "performance": [
+            {
+              "id": 13,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 6,
+              "sales_volume": 17768000,
+              "sales_incentive": 33121
+            },
+            {
+              "id": 13,
+              "trx_method": "Card Present DEBIT",
+              "sales_numbers": 1,
+              "sales_volume": 2157000,
+              "sales_incentive": 3823
+            },
+            {
+              "id": 1,
+              "trx_method": "OVO",
+              "sales_numbers": 3,
+              "sales_volume": 2000000,
+              "sales_incentive": 2875
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB640-1532",
+          "merchant_name": "Sea Safari",
+          "performance": [
+            {
+              "id": 14,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 6,
+              "sales_volume": 7171000,
+              "sales_incentive": 15885
+            },
+            {
+              "id": 1,
+              "trx_method": "OVO",
+              "sales_numbers": 5,
+              "sales_volume": 2009500,
+              "sales_incentive": 2975
+            }
+          ]
+        },
+        {
+          "merchant_id": "CB600-9908",
+          "merchant_name": "Wisesa",
+          "performance": [
+            {
+              "id": 15,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 4,
+              "sales_volume": 17210000,
+              "sales_incentive": 36257
+            }
+          ]
+        },
+        {
+          "merchant_id": "CA303-0343",
+          "merchant_name": "IslandShopPay",
+          "performance": [
+            {
+              "id": 16,
+              "trx_method": "Card Present CREDIT",
+              "sales_numbers": 6,
+              "sales_volume": 3700000,
+              "sales_incentive": 3148
+            },
+            {
+              "id": 1,
+              "trx_method": "OVO",
+              "sales_numbers": 4,
+              "sales_volume": 3409500,
+              "sales_incentive": 3975
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
